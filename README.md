@@ -33,9 +33,14 @@ I enjoy turning raw data into **clear insights and decision-ready dashboards**.
 ---
 
 ## 📌 Featured Project
-**GoldMind Challenge**  
-AI-assisted quiz platform prototype inspired by KBC  
-🔗 https://github.com/sujalk-0405/goldmind-challenge
+<p>
+  <a href="https://goldmind-challenge.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-Open%20App-success?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/sujalk-0405/goldmind-challenge" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Source%20Code-black?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
