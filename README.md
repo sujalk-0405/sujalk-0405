@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Sujal Kalal – Data & BI Analyst"/>
+</p>
+
 # 👋 Hi, I'm Sujal Kalal
 
 🎓 Student | Aspiring **Data / BI Analyst**  
